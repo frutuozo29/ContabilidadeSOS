@@ -2,7 +2,9 @@ program ContabilidadeSOS;
 
 uses
   Vcl.Forms,
-  PrContabilidade in 'PrContabilidade.pas' {frmPrContabilidade};
+  PrContabilidade in 'PrContabilidade.pas' {frmPrContabilidade},
+  Vcl.Themes,
+  Vcl.Styles;
 
 {$R *.res}
 

@@ -1,0 +1,959 @@
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00001
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+10000-9  1.0.00.00.00.00               ATIVO
+
+11000-0  1.1.00.00.00.00               ATIVO CIRCULANTE
+11100-3  1.1.01.00.00.00               DISPONIBILIDADES
+11110-7  1.1.01.01.00.00               CAIXA GERAL
+10001-3  1.1.01.01.01.00               CAIXA                              S, 1 N    N    N      N        N
+10012-1  1.1.01.01.02.00               CAIXA GERENCIAL                    S, 1 N    N    N      N        S
+11120-0  1.1.01.02.00.00               BANCOS C/MOVIMENTO
+10002-8  1.1.01.02.01.00               BCO BIC S/A C/C 52440-3            S, 1 N    N    N      N        N
+10003-2  1.1.01.02.02.00               BCO DO BRASIL C/C 7076-9           S, 1 N    N    N      N        N
+10004-7  1.1.01.02.03.00               UNIBANCO C/C 261.375-9             S, 1 N    N    N      N        N
+10005-1  1.1.01.02.04.00               BEC C/C 20.083-8                   S, 1 N    N    N      N        N
+10016-0  1.1.01.02.05.00               BCO BRASIL S/A C/C 5.904-8         S, 1 N    N    N      N        N
+10007-0  1.1.01.02.07.00               UNIBANCO C/C 109438-2              S, 1 N    N    N      N        N
+10009-0  1.1.01.02.09.00               BANCO HSBC C/C 225-38              S, 1 N    N    N      N        N
+10010-2  1.1.01.02.10.00               BANCO BRADESCO C/C 79601-8         S, 1 N    N    N      N        N
+10011-7  1.1.01.02.11.00               CEF C/C 1055-0                     S, 1 N    N    N      N        N
+10076-1  1.1.01.02.12.00               BANDEIRANTES C/C 700046/2          S, 1 N    N    N      N        N
+10023-0  1.1.01.02.13.00               UNICRED C/C 02002-8                S, 1 N    N    N      N        N
+10147-8  1.1.01.02.14.00               BICBANCO S/A-C/C 14.100125-0       S, 1 N    N    N      N        N
+10150-0  1.1.01.02.15.00               BRADESCO C/C 10.807-3              S, 1 N    N    N      N        N
+11130-4  1.1.01.03.00.00               APLICACOES FINANCEIRAS
+10013-6  1.1.01.03.02.00               FUNDO BIC MAX                      S, 1 N    N    N      N        N
+10015-5  1.1.01.03.04.00               POUPANÄA BIC                       S, 1 N    N    N      N        N
+10006-6  1.1.01.03.05.00               POUPE RECURSOS - BEC               S, 1 N    N    N      N        N
+10008-5  1.1.01.03.06.00               BAMERINDUS                         S, 1 N    N    N      N        N
+10127-0  1.1.01.03.07.00               BANDEIRANTES - APLICACAO           S, 1 N    N    N      N        N
+10139-3  1.1.01.03.08.00               INTEG.CAPITAL-UNICRED              S, 1 N    N    N      N        N
+10151-4  1.1.01.03.09.00               POUPANCA BRADESCO                  S, 1 N    N    N      N        N
+11200-6  1.1.02.00.00.00               CLIENTES
+10071-9  1.1.02.01.00.00               FATURA A RECEBER
+10067-2  1.1.02.01.01.00               AMIL - ASSIST.MEDICA INTEGRADA     S, 1 N    N    N      N        N
+10081-2  1.1.02.01.01.00               ASFOR-PETR PETROLEO BRAS S/A       S, 1 N    N    N      N        N
+10059-8  1.1.02.01.01.00               ASS.MED.S.PAULO-BLUE LIFE          S, 1 N    N    N      N        N
+10079-5  1.1.02.01.01.00               ASSEFAZ-FUND.ASSIST.SERV M FAZ     S, 1 N    N    N      N        N
+10144-4  1.1.02.01.01.00               BENEF.CAMILIANA DO SUL             S, 1 N    N    N      N        N
+10082-7  1.1.02.01.01.00               BRADESCO SAUDE CIA DE SEGUROS      S, 1 N    N    N      N        N
+10156-7  1.1.02.01.01.00               BRASIL ASSISTENCIA S/A             S, 1 N    N    N      N        N
+10115-8  1.1.02.01.01.00               BRASIL SAUDE CIA DE SEGUROS        S, 1 N    N    N      N        N
+10095-4  1.1.02.01.01.00               CABEC/FAMED-FDO.ASS.FUNC.BEC       S, 1 N    N    N      N        N
+10088-4  1.1.02.01.01.00               CAFAZ-CAIXA ASSIST. SERV FAZED     S, 1 N    N    N      N        N
+10148-2  1.1.02.01.01.00               CAIXA ASSIST.FUNCION.DO BNB        S, 1 N    N    N      N        N
+10153-3  1.1.02.01.01.00               CAMED OPER.DE PLANOS DE SAUDE      S, 1 N    N    N      N        N
+10149-7  1.1.02.01.01.00               CAPESESP-CX.ASS.PECULIOS SERV      S, 1 N    N    N      N        N
+10054-5  1.1.02.01.01.00               CARTAO VISA - VISANET              S, 1 N    N    N      N        N
+10075-7  1.1.02.01.01.00               CASSI-CX.ASSIST.FUNC.B.BRASIL      S, 1 N    N    N      N        N
+10096-9  1.1.02.01.01.00               CEF - CAIXA ECONOMICA FEDERAL      S, 1 N    N    N      N        N
+10089-9  1.1.02.01.01.00               CONAB - CIA NAC.ABASTECIMENTO      S, 1 N    N    N      N        N
+10124-7  1.1.02.01.01.00               CONG.DAS FILHAS DO COR.IMAC.       S, 1 N    N    N      N        N
+10136-0  1.1.02.01.01.00               DIVERSOS                           S, 1 N    N    N      N        N
+10064-9  1.1.02.01.01.00               EBCT-EMP.BRAS.CORREIOS E TEL.      S, 1 N    N    N      N        N
+10112-4  1.1.02.01.01.00               FACHESF-FUND.CHESF DE ASSIST.      S, 1 N    N    N      N        N
+10090-1  1.1.02.01.01.00               FASSINCRA-FUND.ASS.SERV.INCRA      S, 1 N    N    N      N        N
+10062-0  1.1.02.01.01.00               FDM-FUNDACAO DIAS MACEDO           S, 1 N    N    N      N        N
+10100-1  1.1.02.01.01.00               FLORESTAL MARACACUME LTDA          S, 1 N    N    N      N        N
+10119-6  1.1.02.01.01.00               FREE LIFE-OPER.PLANOS DE SAUDE     S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00002
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+10098-8  1.1.02.01.01.00               FUND.EDSON QUEIROZ                 S, 1 N    N    N      N        N
+10085-0  1.1.02.01.01.00               FUNDACAO CEARENSE PESQ./CULT.      S, 1 N    N    N      N        N
+10103-5  1.1.02.01.01.00               FUNDO ESTADUAL DE SAUDE-FUNDES     S, 1 N    N    N      N        N
+10155-2  1.1.02.01.01.00               FUSMA-ESC.APREND.MARINH.CEARA      S, 1 N    N    N      N        N
+10105-4  1.1.02.01.01.00               GAMA SAUDE LTDA                    S, 1 N    N    N      N        N
+10077-6  1.1.02.01.01.00               GAMEC-GRUPO ASSIS.MED.EMP.CE       S, 1 N    N    N      N        N
+10104-0  1.1.02.01.01.00               GEAP-FUND.DE SEGURIDADE SOCIAL     S, 1 N    N    N      N        N
+10109-2  1.1.02.01.01.00               GOLDEN CROSS A.I. DE SAUDE S/A     S, 1 N    N    N      N        N
+10066-8  1.1.02.01.01.00               HSBC-SEGURO SAUDE S/A              S, 1 N    N    N      N        N
+10068-7  1.1.02.01.01.00               HSBC-SEGUROS BRASIL S/A            S, 1 N    N    N      N        N
+10065-3  1.1.02.01.01.00               HSBC-SERVICOS DE SAUDE S/C         S, 1 N    N    N      N        N
+10143-0  1.1.02.01.01.00               INTERMEDICA SIST.DE SAUDE S/A      S, 1 N    N    N      N        N
+10083-1  1.1.02.01.01.00               ISSEC-ISNT.SAUDE SERV.EST.CEAR     S, 1 N    N    N      N        N
+10069-1  1.1.02.01.01.00               NACIONAL GAS BUTANO                S, 1 N    N    N      N        N
+10087-0  1.1.02.01.01.00               NEXUS INDUSTRIAL LTDA              S, 1 N    N    N      N        N
+10094-0  1.1.02.01.01.00               NORCLINICAS S/C LTDA               S, 1 N    N    N      N        N
+10157-1  1.1.02.01.01.00               OMNIMAGEM MILLENIUM DIAG.IMAG.     S, 1 N    N    N      N        S
+10091-6  1.1.02.01.01.00               PETROBRAS DISTRIBUIDORA S/A        S, 1 N    N    N      N        N
+10093-5  1.1.02.01.01.00               PROG.ASSIST.SAUDE SERV.MUNICIP     S, 1 N    N    N      N        N
+10140-6  1.1.02.01.01.00               PRONTO SOC.INF.LUIZ FRANCA S/C     S, 1 N    N    N      N        N
+10130-2  1.1.02.01.01.00               SAMP-ASSIST.MEDICA LTDA            S, 1 N    N    N      N        N
+10063-4  1.1.02.01.01.00               SERPRO-SERV.FEDERAL P.DE DADOS     S, 1 N    N    N      N        N
+10058-3  1.1.02.01.01.00               SERVITAL ASSIT MEDICA S/C LTDA     S, 1 N    N    N      N        N
+10120-9  1.1.02.01.01.00               SESC-SERV.SOCIAL DO COMERCIO       S, 1 N    N    N      N        N
+10125-1  1.1.02.01.01.00               SIST.MEDICO DA SAUDE S/A           S, 1 N    N    N      N        N
+10123-2  1.1.02.01.01.00               SMS - SEC.MUNIC.DE SAUDE           S, 1 N    N    N      N        N
+10099-2  1.1.02.01.01.00               SOCIEDADE BUTANO LTDA              S, 1 N    N    N      N        N
+10141-0  1.1.02.01.01.00               START SIST.TEC.REC.TERCEIR.LTD     S, 1 N    N    N      N        N
+10084-6  1.1.02.01.01.00               SUL AMERICA AETNA SEG E PREV       S, 1 N    N    N      N        N
+10152-9  1.1.02.01.01.00               SUPORTE NUTRIC.E QUIMIOT.LTDA      S, 1 N    N    N      N        N
+10108-8  1.1.02.01.01.00               SUS - MINISTERIO DA SAUDE          S, 1 N    N    N      N        N
+10111-0  1.1.02.01.01.00               SUS- SECRETARIA DA FAZENDA         S, 1 N    N    N      N        N
+10092-0  1.1.02.01.01.00               TBM-TEXTIL BEZERRA DE MENEZES      S, 1 N    N    N      N        N
+10101-6  1.1.02.01.01.00               TEMPO SAUDE SEGURADORA S/A         S, 1 N    N    N      N        S
+10118-1  1.1.02.01.01.00               TVM-TEL.VERDES MARES               S, 1 N    N    N      N        N
+10122-8  1.1.02.01.01.00               UNIBANCO AIG SAUDE SIST.ADM.       S, 1 N    N    N      N        N
+10057-9  1.1.02.01.01.00               UNIBANCO SEGUROS S/A.              S, 1 N    N    N      N        N
+10102-0  1.1.02.01.01.00               UNIMED - BRASIL                    S, 1 N    N    N      N        N
+10060-0  1.1.02.01.01.00               UNIMED FORTALEZA                   S, 1 N    N    N      N        N
+11299-0  1.1.02.99.00.00               (-) PROV.DEVEDORES DUVIDOSOS
+10072-3  1.1.02.99.01.00               PROVISAO P/ DEV.DUVIDOSOS          S, 1 N    N    N      N        N
+11300-9  1.1.03.00.00.00               OUTROS CREDITOS
+11310-2  1.1.03.01.00.00               ADIANTAMENTOS
+10017-4  1.1.03.01.01.00               P/FUNCIONARIOS                     S, 1 N    N    N      N        N
+10018-9  1.1.03.01.02.00               13ß SALARIO DE FUNCIONARIOS        S, 1 N    N    N      N        N
+10019-3  1.1.03.01.03.00               PRO-LABORE                         S, 1 N    N    N      N        N
+10020-6  1.1.03.01.04.00               VALE TRANSPORTE                    S, 1 N    N    N      N        N
+10021-0  1.1.03.01.05.00               P/COMPRA DE MERCADORIA             S, 1 N    N    N      N        N
+10022-5  1.1.03.01.06.00               P/COMPRA DE IMOBILIZADO            S, 1 N    N    N      N        N
+10024-4  1.1.03.01.07.00               ADTO.P/C SERV.PRESTADOS            S, 1 N    N    N      N        N
+10129-0  1.1.03.01.08.00               ADIANTAMENTO A FORNECEDORES        S, 1 N    N    N      N        N
+11320-6  1.1.03.02.00.00               DEVEDORES DIVERSOS
+11400-1  1.1.04.00.00.00               VALORES RECUPERAVEIS
+11410-5  1.1.04.01.00.00               IMPOSTOS A RECUPERAR
+10031-4  1.1.04.01.01.00               IRRF S/ FATURAMENTO                S, 1 N    N    N      N        N
+10025-9  1.1.04.01.02.00               IRRF S/ APLICACAO                  S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00003
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+10026-3  1.1.04.01.03.00               IRPJ ANTECIPADO                    S, 1 N    N    N      N        N
+10027-8  1.1.04.01.04.00               ISS NA FONTE                       S, 1 N    N    N      N        N
+10028-2  1.1.04.01.05.00               CONT.SOCIAL S/LL                   S, 1 N    N    N      N        N
+10029-7  1.1.04.01.06.00               COFINS A RECUPERAR                 S, 1 N    N    N      N        N
+10030-0  1.1.04.01.07.00               PIS A RECUPERAR                    S, 1 N    N    N      N        N
+10131-7  1.1.04.01.08.00               IRPJ - FONTE/ORGAOS PUBLICOS       S, 1 N    N    N      N        N
+10132-1  1.1.04.01.09.00               CSLL-FONTE S/FATURAMENTO           S, 1 N    N    N      N        N
+10133-6  1.1.04.01.10.00               COFINS-FONTE S/FATURAMENTO         S, 1 N    N    N      N        N
+10134-0  1.1.04.01.11.00               PIS-FONTE S/FATURAMENTO            S, 1 N    N    N      N        N
+10135-5  1.1.04.01.12.00               IRFONTE POUPANCA                   S, 1 N    N    N      N        N
+10137-4  1.1.04.01.13.00               TRIBUTOS A COMPENSAR               S, 1 N    N    N      N        N
+10138-9  1.1.04.01.14.00               EXPURGO CONF.MP.Nr.                S, 1 N    N    N      N        N
+11420-9  1.1.04.02.00.00               CONTAS TRANSITORIAS
+10032-9  1.1.04.02.01.00               SALARIO FAMILIA                    S, 1 N    N    N      N        N
+10034-8  1.1.04.02.02.00               SALARIO MATERNIDADE                S, 1 N    N    N      N        N
+10033-3  1.1.04.02.03.00               SALARIO NATALIDADE                 S, 1 N    N    N      N        N
+10117-7  1.1.04.02.04.00               PENSAO ALIMENTICIA                 S, 1 N    N    N      N        N
+10128-5  1.1.04.02.05.00               ASSISTENCIA MEDICA                 S, 1 N    N    N      N        N
+10146-3  1.1.04.02.06.00               CONVENIO-FARMACIA                  S, 1 N    N    N      N        N
+10160-3  1.1.04.02.07.00               MUTUO - BICBANCO                   S, 1 N    N    N      N        S
+11500-4  1.1.05.00.00.00               ESTOQUES
+11510-8  1.1.05.01.00.00               MATERIAIS DE CONSUMO
+10035-2  1.1.05.01.01.00               MEDICAMENTOS/MATERIAIS             S, 1 N    N    N      N        N
+10036-7  1.1.05.01.02.00               MATERIAL P/ EXAMES                 S, 1 N    N    N      N        N
+10037-1  1.1.05.01.03.00               MATERIAL DE LIMPEZA                S, 1 N    N    N      N        N
+10038-6  1.1.05.01.04.00               GENEROS ALIMENTICIOS               S, 1 N    N    N      N        N
+10113-9  1.1.05.01.05.00               MATERIAL DE EXPEDIENTE             S, 1 N    N    N      N        N
+11600-7  1.1.06.00.00.00               ANTECIPACOES DE DESPESAS
+11610-0  1.1.06.01.00.00               DESPESAS EXERCICIO SEGUINTE
+10039-0  1.1.06.01.01.00               ALUGUEL DE EQUIPAMENTO             S, 1 N    N    N      N        N
+10040-3  1.1.06.01.02.00               DE JUROS                           S, 1 N    N    N      N        N
+10061-5  1.1.06.01.03.00               TAXAS DIVERSAS                     S, 1 N    N    N      N        S
+10070-4  1.1.06.01.04.00               DESPESAS BANCARIAS                 S, 1 N    N    N      N        S
+10073-8  1.1.06.01.05.00               MEDICAMENTOS/MATERIAIS             S, 1 N    N    N      N        S
+10078-0  1.1.06.01.06.00               GENEROS ALIMENTICIOS               S, 1 N    N    N      N        S
+10180-0  1.1.06.01.07.00               MATERIAL APARTAMENTOS              S, 1 N    N    N      N        S
+10181-5  1.1.06.01.08.00               SERVICOS PRESTADOS PJ              S, 1 N    N    N      N        S
+11700-0  1.1.07.00.00.00               ATIVO REALIZAVEL A LONGO PRAZO
+11710-3  1.1.07.01.00.00               CREDITOS INTERNOS
+10074-2  1.1.07.01.01.00               CREDITOS DE SOCIOS                 S, 1 N    N    N      N        N
+10110-5  1.1.07.01.02.00               OMNIMAGEM DIAG P/IMAGEM R.LTDA     S, 1 N    N    N      N        N
+10114-3  1.1.07.01.03.00               PROCESSO 274887-8 HORTENCIA        S, 1 N    N    N      N        N
+10158-6  1.1.07.01.04.00               FREE LIFE OPER.PLANOS SAUDE        S, 1 N    N    N      N        N
+10165-6  1.1.07.01.05.00               CONVENIOS                          S, 1 N    N    N      N        S
+10166-0  1.1.07.01.06.00               HOSP.CENTRAL.FORTAL.- MUTUO        S, 1 N    N    N      N        S
+
+12000-2  1.2.00.00.00.00               ATIVO PERMANENTE
+12100-5  1.2.01.00.00.00               IMOBILIZADO
+12110-9  1.2.01.01.00.00               IMOBILIZADO TECNICO
+10041-8  1.2.01.01.01.00               IMOVEIS                            S, 1 S, 2 N    N      N        N
+10042-2  1.2.01.01.02.00               INSTALACOES                        S, 1 S, 2 N    N      N        N
+10043-7  1.2.01.01.03.00               MOVEIS E UTENSILIOS                S, 1 S, 2 N    N      N        N
+10044-1  1.2.01.01.04.00               MAQUINAS E EQUIPAMENTOS            S, 1 S, 2 N    N      N        N
+10045-6  1.2.01.01.05.00               VEICULOS                           S, 1 S, 2 N    N      N        N
+10046-0  1.2.01.01.06.00               BIBLIOTECA                         S, 1 S, 2 N    N      N        N
+10047-5  1.2.01.01.07.00               EDIFICACOES                        S, 1 S, 2 N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00004
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+12120-2  1.2.01.02.00.00               DEPRECIACOES
+10048-0  1.2.01.02.01.00               INSTALACOES                        S, 1 S, 2 S    N      N        N
+10049-4  1.2.01.02.02.00               MOVEIS E UTENSILIOS                S, 1 S, 2 S    N      N        N
+10050-7  1.2.01.02.03.00               MAQUINAS E EQUIPAMENTOS            S, 1 S, 2 S    N      N        N
+10051-1  1.2.01.02.04.00               VEICULOS                           S, 1 S, 2 S    N      N        N
+10052-6  1.2.01.02.05.00               BIBLIOTECA                         S, 1 S, 2 S    N      N        N
+10053-0  1.2.01.02.06.00               EDIFICACOES                        S, 1 S, 2 S    N      N        N
+12130-6  1.2.01.03.00.00               FINANCEIRO
+10055-0  1.2.01.03.01.00               LINHAS TELEFONICAS                 S, 1 S, 2 N    N      N        N
+10056-4  1.2.01.03.02.00               PART C/INCENT.FISCAIS-FINOR        S, 1 S, 2 N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00005
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+20000-0  2.0.00.00.00.00               PASSIVO
+
+21000-1  2.1.00.00.00.00               PASSIVO CIRCULANTE
+21100-4  2.1.01.00.00.00               OBRIGACOES SOCIAIS TRIBUTARIAS
+21110-8  2.1.01.01.00.00               OBRIGACOES SOCIAIS
+20001-4  2.1.01.01.01.00               INSS A RECOLHER                    S, 1 N    N    N      N        N
+20002-9  2.1.01.01.02.00               FGTS A RECOLHER                    S, 1 N    N    N      N        N
+20045-7  2.1.01.01.03.00               PARCELAMENTO INSS                  S, 1 N    N    N      N        N
+20004-8  2.1.01.01.04.00               SALARIOS A PAGAR                   S, 1 N    N    N      N        N
+20187-3  2.1.01.01.05.00               PAES INSS/2003                     S, 1 N    N    N      N        N
+21120-1  2.1.01.02.00.00               OBRIGACOES TRIBUTARIAS
+20005-2  2.1.01.02.01.00               CONTRIBUICOES SINDICAIS            S, 1 N    N    N      N        N
+20006-7  2.1.01.02.02.00               IRRF A RECOLHER                    S, 1 N    N    N      N        N
+20007-1  2.1.01.02.03.00               PIS A RECOLHER                     S, 1 N    N    N      N        N
+20008-6  2.1.01.02.04.00               ISS A RECOLHER                     S, 1 N    N    N      N        N
+20009-0  2.1.01.02.05.00               COFINS A RECOLHER                  S, 1 N    N    N      N        N
+20010-3  2.1.01.02.06.00               IMPOSTOS E TAXAS DIVERSAS          S, 1 N    N    N      N        N
+20030-0  2.1.01.02.07.00               INSS-FONTE A RECOLHER              S, 1 N    N    N      N        N
+20011-8  2.1.01.02.08.00               CONTRIBUICAO SOCIAL A RECOLHER     S, 1 N    N    N      N        N
+20012-2  2.1.01.02.09.00               IRPJ                               S, 1 N    N    N      N        N
+20142-6  2.1.01.02.10.00               FINSOCIAL                          S, 1 N    N    N      N        N
+20143-0  2.1.01.02.11.00               CLT                                S, 1 N    N    N      N        N
+20144-5  2.1.01.02.12.00               MULTAS                             S, 1 N    N    N      N        N
+20145-0  2.1.01.02.13.00               EXPURGO CONF.MP.Nr.                S, 1 N    N    N      N        N
+20186-9  2.1.01.02.14.00               PAES-2003                          S, 1 N    N    N      N        N
+21200-7  2.1.02.00.00.00               CREDORES P/FORNECIMENTO
+21210-0  2.1.02.01.00.00               FORNECEDORES
+20203-9  2.1.02.01.01.00               ACAL-ARAUJO CABRAL E ALVES LTD     S, 1 N    N    N      N        N
+20307-0  2.1.02.01.01.00               AFIOTEXTIL ACESS.TEXTIL IND.LT     S, 1 N    N    N      N        N
+20403-4  2.1.02.01.01.00               AKA PISOS-RABELO B.COML.LTDA       S, 1 N    N    N      N        N
+20176-5  2.1.02.01.01.00               ALBAN DIST.DE ALIMENTOS LTDA       S, 1 N    N    N      N        N
+20359-7  2.1.02.01.01.00               ALS PRODUTOS DE LIMPEZA            S, 1 N    N    N      N        N
+20040-4  2.1.02.01.01.00               ALTA TRANSP & MUDANCAS LTDA        S, 1 N    N    N      N        N
+20601-0  2.1.02.01.01.00               AMBIENTAR COM.MATL.CONST.LTDA      S, 1 N    N    N      N        S
+20105-5  2.1.02.01.01.00               AMED APARELHOS MODICOS LTDA        S, 1 N    N    N      N        N
+20363-3  2.1.02.01.01.00               AMERICAN CELULAR LTDA.             S, 1 N    N    N      N        N
+20075-8  2.1.02.01.01.00               ANAVENTEC COM REP M. FARM HOSP     S, 1 N    N    N      N        N
+20468-9  2.1.02.01.01.00               ANDREZIANO DE SOUSA DA SILVA       S, 1 N    N    N      N        S
+20038-7  2.1.02.01.01.00               ANFISAUTOS VEICULOS LTDA-PISOS     S, 1 N    N    N      N        N
+20228-9  2.1.02.01.01.00               APA-COM.E REPRES.LTDA              S, 1 N    N    N      N        N
+20061-6  2.1.02.01.01.00               AR FRIO ASSISTENCIA TEC.REFRIG     S, 1 N    N    N      N        N
+20096-0  2.1.02.01.01.00               ARGOS CARGAS AEREA LTDA            S, 1 N    N    N      N        N
+20182-0  2.1.02.01.01.00               ARMAZEM REAL-AGUIAR COML.ALIM.     S, 1 N    N    N      N        N
+20223-6  2.1.02.01.01.00               ARQUICENTER SAUDE E REP.LTDA       S, 1 N    N    N      N        N
+20141-1  2.1.02.01.01.00               ARQUIMEDICA REP.E SERV.LTDA        S, 1 N    N    N      N        N
+20062-0  2.1.02.01.01.00               ARRUDA & QUEIROZ LTDA              S, 1 N    N    N      N        N
+20281-9  2.1.02.01.01.00               ART MEDICA COM.REP.PROD.HOSPIT     S, 1 N    N    N      N        N
+20380-7  2.1.02.01.01.00               ARTINOX-IND.E COM.LTDA             S, 1 N    N    N      N        N
+20225-5  2.1.02.01.01.00               B&B IND.COM.CONFEC.LTDA            S, 1 N    N    N      N        N
+20042-3  2.1.02.01.01.00               BARRETO EXTINTORES                 S, 1 N    N    N      N        N
+20121-4  2.1.02.01.01.00               BAUMER S/A                         S, 1 N    N    N      N        N
+20602-5  2.1.02.01.01.00               BEMTEC TECN.PROD.HOSPIT.LTDA       S, 1 N    N    N      N        S
+20063-5  2.1.02.01.01.00               BENEMARTE COM E REP. LTDA          S, 1 N    N    N      N        N
+20066-9  2.1.02.01.01.00               BIO HOSP. - J.A.ARAUJO DO VALE     S, 1 N    N    N      N        N
+20064-0  2.1.02.01.01.00               BIOFOR-COM.SERV.EQUIP.MEDICOS      S, 1 N    N    N      N        N
+20109-3  2.1.02.01.01.00               BIOQUIMA INDUSTRIA LTDA            S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00006
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+20065-4  2.1.02.01.01.00               BIOSERVICE-COM.IMP.EXP.PROD.HO     S, 1 N    N    N      N        N
+20381-1  2.1.02.01.01.00               BIOTEC DETETIZADORA LTDA           S, 1 N    N    N      N        N
+21135-8  2.1.02.01.01.00               BITCARD IND.E COM.LTDA             S, 1 N    N    N      N        N
+20056-5  2.1.02.01.01.00               BM CENTER IMPORT E EXPORTADORA     S, 1 N    N    N      N        N
+20067-3  2.1.02.01.01.00               BND-BIO NUCLEAR DIAG.COM.SERV.     S, 1 N    N    N      N        N
+20422-7  2.1.02.01.01.00               BOM SABOR DENILSON D.VEND. EPP     S, 1 N    N    N      N        S
+20280-4  2.1.02.01.01.00               BOMBEL-COM.BOMBAS E MOTORES        S, 1 N    N    N      N        N
+20014-1  2.1.02.01.01.00               BOYNTON EMP. EXP LTDA              S, 1 N    N    N      N        N
+20221-7  2.1.02.01.01.00               BRAMED-COM.MANUT.HOSPIT.LTDA       S, 1 N    N    N      N        N
+20261-1  2.1.02.01.01.00               BRASIL TRANSP.INTERMODAL LTDA      S, 1 N    N    N      N        N
+20285-7  2.1.02.01.01.00               BRASPRESS TRANSP.URGENTES LTDA     S, 1 N    N    N      N        N
+20120-0  2.1.02.01.01.00               BRAUFARMA - COM. REP E IMP LTD     S, 1 N    N    N      N        N
+20463-6  2.1.02.01.01.00               BSB PROD.EQUIP.PROTECAO INDIV.     S, 1 N    N    N      N        S
+20132-2  2.1.02.01.01.00               C&R CONS.RADIOPROTECAO             S, 1 N    N    N      N        N
+20069-2  2.1.02.01.01.00               CALGIMED-EQUIP.P/ELETROMEDICIN     S, 1 N    N    N      N        N
+20018-0  2.1.02.01.01.00               CARDIOFOR-FC VASCONCELOS-ME        S, 1 N    N    N      N        N
+20152-0  2.1.02.01.01.00               CARIRI MEDICAMENTOS LTDA           S, 1 N    N    N      N        N
+20366-7  2.1.02.01.01.00               CASA DA CONSTRUCAO-M.A.FROTA       S, 1 N    N    N      N        N
+20293-1  2.1.02.01.01.00               CASA DO MEDICO COM.REP.LTDA        S, 1 N    N    N      N        N
+20068-8  2.1.02.01.01.00               CASA DO RADIOL-CENTRO BRAS.ELE     S, 1 N    N    N      N        N
+20052-7  2.1.02.01.01.00               CASA MAGALHCES COM.E REP.LTDA      S, 1 N    N    N      N        N
+20423-1  2.1.02.01.01.00               CBL-CIA BRASIL.DE LATICINIOS       S, 1 N    N    N      N        S
+20503-7  2.1.02.01.01.00               CBS HOSPITALAR                     S, 1 N    N    N      N        N
+20297-0  2.1.02.01.01.00               CDI INFORMATICA                    S, 1 N    N    N      N        N
+20278-7  2.1.02.01.01.00               CEARA VIDROS                       S, 1 N    N    N      N        N
+20399-1  2.1.02.01.01.00               CEARAMED IMPLANTES ORTOP.LTDA      S, 1 N    N    N      N        N
+20147-9  2.1.02.01.01.00               CECOMIL-COM.SERV.LTDA              S, 1 N    N    N      N        N
+20191-0  2.1.02.01.01.00               CEFAT-CEREAL.N.S.FATIMA            S, 1 N    N    N      N        N
+20306-5  2.1.02.01.01.00               CEI-COM.EXP.IMP.MATS.MED.LTDA      S, 1 N    N    N      N        N
+20026-4  2.1.02.01.01.00               CENTER TINTAS DIST. LTDA           S, 1 N    N    N      N        N
+20025-0  2.1.02.01.01.00               CENTRAL-DISTRIB. P/GRAFICAS        S, 1 N    N    N      N        N
+20321-0  2.1.02.01.01.00               CENTROTEC-COM.SERV.PROD.HOSPIT     S, 1 N    N    N      N        N
+20057-0  2.1.02.01.01.00               CERBRASA COM E REP BRASIL LTDA     S, 1 N    N    N      N        N
+20215-1  2.1.02.01.01.00               CEREALISTA ADAILSON LTDA           S, 1 N    N    N      N        N
+20209-6  2.1.02.01.01.00               CHAMEMOTOTAXI-SERV.TRANSP.COM.     S, 1 N    N    N      N        N
+20360-0  2.1.02.01.01.00               CIA DO HOSPITAL-R&T COM.PROD.      S, 1 N    N    N      N        N
+20204-3  2.1.02.01.01.00               CIA DOS PLASTICOS                  S, 1 N    N    N      N        N
+21138-1  2.1.02.01.01.00               CIL COM.DE INFORMATICA LTDA        S, 1 N    N    N      N        N
+20196-2  2.1.02.01.01.00               CLEAN SYSTEM COML.LTDA             S, 1 N    N    N      N        N
+20260-7  2.1.02.01.01.00               CMOS DRAKE MEDICAL LTDA            S, 1 N    N    N      N        N
+20095-5  2.1.02.01.01.00               CMS - PRODUTOS MEDICOS LTDA        S, 1 N    N    N      N        N
+20071-0  2.1.02.01.01.00               CNEN-COMISS.NAC.ENERG.NUCLEAR      S, 1 N    N    N      N        N
+20070-5  2.1.02.01.01.00               COLDAR AR CONDICIONADO LTDA        S, 1 N    N    N      N        N
+20150-0  2.1.02.01.01.00               COMDIAS COML DIAS PROD.HOSPIT.     S, 1 N    N    N      N        N
+20133-7  2.1.02.01.01.00               COMEQ-MARIO OTONI DE CARVALHO      S, 1 N    N    N      N        N
+20393-4  2.1.02.01.01.00               COMERCIAL VALFARMA LTDA            S, 1 N    N    N      N        N
+20249-0  2.1.02.01.01.00               COML.CIRURGICA PASSOS LTDA         S, 1 N    N    N      N        N
+20229-3  2.1.02.01.01.00               COML.DE ELETRODOMEST.GONDIM        S, 1 N    N    N      N        N
+20214-7  2.1.02.01.01.00               COML.MIUDEZAS FREITAS LTDA         S, 1 N    N    N      N        N
+20320-5  2.1.02.01.01.00               CONSTRUTORA MARQUISE LTDA          S, 1 N    N    N      N        N
+20157-2  2.1.02.01.01.00               CONTEMAR AMB.COM.CONTAINERS LT     S, 1 N    N    N      N        N
+20110-6  2.1.02.01.01.00               COPIADORAS EQUIP E.LT TELECOPY     S, 1 N    N    N      N        N
+20156-8  2.1.02.01.01.00               COPYMITA COM.REP.SERV.LTDA         S, 1 N    N    N      N        N
+20072-4  2.1.02.01.01.00               COREME-COM.REPRES.MED.LTDA         S, 1 N    N    N      N        N
+20358-2  2.1.02.01.01.00               D.A.S.FRUTAS VERDURAS EM GERAL     S, 1 N    N    N      N        N
+20255-6  2.1.02.01.01.00               DALTEC TELECOMUNICACOES            S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00007
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+20391-5  2.1.02.01.01.00               DEFEL-DEOLINDO FERRAGENS LTDA      S, 1 N    N    N      N        N
+20232-5  2.1.02.01.01.00               DENTAL BEZ.DE MENEZES              S, 1 N    N    N      N        N
+20431-6  2.1.02.01.01.00               DESINSETIZADORA EXTINSET LTDA      S, 1 N    N    N      N        S
+20219-0  2.1.02.01.01.00               DIAGNOCEL COM.E REPRES.LTDA        S, 1 N    N    N      N        N
+20179-9  2.1.02.01.01.00               DIAS E SERPA MED.ASSOC.S/C LTD     S, 1 N    N    N      N        N
+20271-5  2.1.02.01.01.00               DIGITAL SERVICE LTDA               S, 1 N    N    N      N        N
+20118-2  2.1.02.01.01.00               DIGITALGRAPH EQUIP E SERV LTDA     S, 1 N    N    N      N        N
+21133-9  2.1.02.01.01.00               DINALI COM.MAT.LIMP.E PAPEL.       S, 1 N    N    N      N        N
+20236-3  2.1.02.01.01.00               DINAMICA COM.PROD.HOSP.LTDA        S, 1 N    N    N      N        N
+20111-0  2.1.02.01.01.00               DISKMED COM EXP E IMPORT. LTDA     S, 1 N    N    N      N        N
+20003-3  2.1.02.01.01.00               DIST.FARMACEUTICA PANARELLO LT     S, 1 N    N    N      N        N
+20197-7  2.1.02.01.01.00               DIST.MUNDIAL PROD.FARMACEUT.       S, 1 N    N    N      N        N
+20098-9  2.1.02.01.01.00               DISTRIB.DE BEB.E MAT LIMP.LTDA     S, 1 N    N    N      N        N
+20284-2  2.1.02.01.01.00               DISTRILAB COMERCIAL LTDA           S, 1 N    N    N      N        N
+20408-7  2.1.02.01.01.00               DISTRISAUDE COM.PROT.ART.ORTOP     S, 1 N    N    N      N        N
+20027-9  2.1.02.01.01.00               DIVIARTE                           S, 1 N    N    N      N        N
+20376-0  2.1.02.01.01.00               DIXTAL BIOMEDICA IND.COM.LTDA      S, 1 N    N    N      N        N
+20395-3  2.1.02.01.01.00               DMC-DIST.MATERIAIS CIRURGICOS      S, 1 N    N    N      N        N
+20515-0  2.1.02.01.01.00               DMX MEDICAL LTDA.                  S, 1 N    N    N      N        S
+20123-3  2.1.02.01.01.00               DPJ COMERCIAL LTDA                 S, 1 N    N    N      N        N
+20169-5  2.1.02.01.01.00               DUTOKA COMERCIAL LTDA              S, 1 N    N    N      N        N
+20217-0  2.1.02.01.01.00               ECOMED-COML.MED.ODONT.LTDA         S, 1 N    N    N      N        N
+20400-0  2.1.02.01.01.00               EDIT.FORT GRAFICA LTDA             S, 1 N    N    N      N        N
+20050-8  2.1.02.01.01.00               EDITORA DE CATAL.ATLANTA LTDA      S, 1 N    N    N      N        N
+20394-9  2.1.02.01.01.00               EDLO S/A-PRODUTOS MEDICOS          S, 1 N    N    N      N        N
+20416-1  2.1.02.01.01.00               EFICAZ HOSPITALAR                  S, 1 N    N    N      N        N
+20159-1  2.1.02.01.01.00               ELETROMEDICO LTDA                  S, 1 N    N    N      N        N
+20080-9  2.1.02.01.01.00               ELIZABETHOSPITALAR E REP.LTDA      S, 1 N    N    N      N        N
+20411-9  2.1.02.01.01.00               ELLO COM.MATS.MED.CIRURG.LTDA      S, 1 N    N    N      N        N
+20488-6  2.1.02.01.01.00               EMBRAESTER EMP.BRAS.ESTERILIZ.     S, 1 N    N    N      N        S
+20036-8  2.1.02.01.01.00               EMC COMERCIAL HOSPITALAR LTDA      S, 1 N    N    N      N        N
+20269-8  2.1.02.01.01.00               EMED ELETROMEDICINA LTDA           S, 1 N    N    N      N        N
+20404-9  2.1.02.01.01.00               ENDOLINE COM.ART.MED.HOSPIT.       S, 1 N    N    N      N        N
+20104-0  2.1.02.01.01.00               ENE IDEIAS PUB E PROM S/C LTDA     S, 1 N    N    N      N        N
+20432-0  2.1.02.01.01.00               ENFOQUE HOSP.COM.PROD.MED.HOSP     S, 1 N    N    N      N        S
+20401-5  2.1.02.01.01.00               ENILCAP-COM.VAR.PROD.FARM.         S, 1 N    N    N      N        N
+20073-9  2.1.02.01.01.00               ENORQUE EMB.PLAST.COM.REP.LTDA     S, 1 N    N    N      N        N
+20272-0  2.1.02.01.01.00               EQFLEX IND.COM.PROD.DESCARTAV.     S, 1 N    N    N      N        N
+20034-9  2.1.02.01.01.00               EQUIPECAS EQUIP PECAS E ACESS.     S, 1 N    N    N      N        N                      0000
+20301-2  2.1.02.01.01.00               EQUIPOS MEDICOS COM.E REP.LTDA     S, 1 N    N    N      N        N
+21131-0  2.1.02.01.01.00               ERGOMEDICINA-PEDRO A.NEVES         S, 1 N    N    N      N        N
+20282-3  2.1.02.01.01.00               ERIKA HOSP.E ODONT.LTDA            S, 1 N    N    N      N        N
+20250-3  2.1.02.01.01.00               ESPUMAX-R.C.R.MAGALHAES            S, 1 N    N    N      N        N
+20472-5  2.1.02.01.01.00               EXPRESSA DIST.MEDICAMENTOS LTD     S, 1 N    N    N      N        S
+20125-2  2.1.02.01.01.00               F.MATOS EMBALAGENS LTDA            S, 1 N    N    N      N        N                      0000
+20074-3  2.1.02.01.01.00               FABRICA ESTRELA-PELAGIO OLIVER     S, 1 N    N    N      N        N
+20100-2  2.1.02.01.01.00               FADE-FUND.APOIO AO DESENV.UFPE     S, 1 N    N    N      N        N
+20456-6  2.1.02.01.01.00               FARBRINDES UNIFORMES PROFISS.      S, 1 N    N    N      N        S
+20060-1  2.1.02.01.01.00               FARMACE IND.Q.FARM.CEARENSE LT     S, 1 N    N    N      N        N
+21128-8  2.1.02.01.01.00               FARMµCIA SOBRAL LTDA               S, 1 N    N    N      N        N
+20305-0  2.1.02.01.01.00               FAX QUIMICA IND.COM.MAT.LIMPEZ     S, 1 N    N    N      N        N
+20235-9  2.1.02.01.01.00               FCO.DE ASSIS GONDIM - ME           S, 1 N    N    N      N        N
+20308-4  2.1.02.01.01.00               FLEXTIP COMERCIAL LTDA             S, 1 N    N    N      N        N
+20402-0  2.1.02.01.01.00               FOCUS CONTROLE AMBIENTAL LTDA      S, 1 N    N    N      N        N
+20022-6  2.1.02.01.01.00               FORCEME - FORN.CEARENSE DE MED     S, 1 N    N    N      N        N
+20047-6  2.1.02.01.01.00               FORMATEC-COMERCIO E REP LTDA       S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00008
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+20076-2  2.1.02.01.01.00               FORT PRINT-RENARD INFORM.SERV.     S, 1 N    N    N      N        N
+20175-0  2.1.02.01.01.00               FORTALEZA TINTAS-FORTCOLOR TIN     S, 1 N    N    N      N        N
+20097-4  2.1.02.01.01.00               FORTCARGO-TRANSPORTE & MUDANCA     S, 1 N    N    N      N        N
+20114-4  2.1.02.01.01.00               FORTE INFORMATICA COM SER LTDA     S, 1 N    N    N      N        N
+20136-0  2.1.02.01.01.00               FORTLAV-FORTALEZA LAVAND.LTDA      S, 1 N    N    N      N        N
+20246-7  2.1.02.01.01.00               FORTLINEA COMERCIAL LTDA           S, 1 N    N    N      N        N
+20257-5  2.1.02.01.01.00               FRENTE FRIA REFRIG.E SERV.LTDA     S, 1 N    N    N      N        N
+20319-2  2.1.02.01.01.00               FRIGOALVES-AMANDA A.SILVA          S, 1 N    N    N      N        N
+20233-0  2.1.02.01.01.00               FRUTAS FRESCAS-ME                  S, 1 N    N    N      N        N
+20199-6  2.1.02.01.01.00               FS DE SOUSA FLORES-SERRA BRANC     S, 1 N    N    N      N        N
+20296-5  2.1.02.01.01.00               G.F.E.DO BRASIL LTDA               S, 1 N    N    N      N        N
+20155-3  2.1.02.01.01.00               GASPAR VIANA S/A                   S, 1 N    N    N      N        N
+20163-8  2.1.02.01.01.00               GELAR REFRIG.COML LTDA             S, 1 N    N    N      N        N
+20173-1  2.1.02.01.01.00               GEVER COM.E REP.LTDA               S, 1 N    N    N      N        N
+20433-5  2.1.02.01.01.00               GILBERTO R.MAGALHAES - ME          S, 1 N    N    N      N        S
+20035-3  2.1.02.01.01.00               GIRASSOL IND COM DE CONFECCOES     S, 1 N    N    N      N        N
+20429-9  2.1.02.01.01.00               GLOBAL DIST.DE ALIMENTOS LTDA      S, 1 N    N    N      N        S
+20421-2  2.1.02.01.01.00               GLOBAL TONER                       S, 1 N    N    N      N        S
+20410-4  2.1.02.01.01.00               GMV LATINO AMER.ELEVADORES LTD     S, 1 N    N    N      N        N
+20369-0  2.1.02.01.01.00               GOLD SERVICE-REFRIG.E AR COND      S, 1 N    N    N      N        N
+20398-7  2.1.02.01.01.00               GRA SINALIZ.&MONIT.ELETR.LTDA      S, 1 N    N    N      N        N
+20048-0  2.1.02.01.01.00               GRAF.VICTOREME-M.V.MARTINS         S, 1 N    N    N      N        N
+20231-0  2.1.02.01.01.00               GRAFICA ENCAIXE LTDA               S, 1 N    N    N      N        N
+20189-2  2.1.02.01.01.00               GRAFICA MUNDO LTDA                 S, 1 N    N    N      N        N
+20226-0  2.1.02.01.01.00               GRAPHIX GRAF.RAPIDA LTDA           S, 1 N    N    N      N        N
+20373-7  2.1.02.01.01.00               GT-GRUPO TRAUMA S/C LTDA           S, 1 N    N    N      N        N
+20148-3  2.1.02.01.01.00               GUERBET PROD.RADIOL.LTDA           S, 1 N    N    N      N        N
+20471-0  2.1.02.01.01.00               H&M MARMORES E GRANITOS            S, 1 N    N    N      N        S
+20462-1  2.1.02.01.01.00               H.R. DA SILVA PROD.HOSP.-EPP       S, 1 N    N    N      N        S
+20465-5  2.1.02.01.01.00               H.STRATTNER &CIA LTDA              S, 1 N    N    N      N        S
+20117-8  2.1.02.01.01.00               H.V. EMBALAGENS                    S, 1 N    N    N      N        N
+20420-8  2.1.02.01.01.00               HEMOGRAM NORDESTE                  S, 1 S, 2 N    N      N        N                      0000
+20502-2  2.1.02.01.01.00               HORIZONTE HOSPITALAR               S, 1 N    N    N      N        N                      0000
+20241-4  2.1.02.01.01.00               HOSP TRADE DO BRASIL LTDA          S, 1 N    N    N      N        N
+20266-4  2.1.02.01.01.00               HOSPIMETAL-IND.METAL.EQUIP.HOS     S, 1 N    N    N      N        N
+20268-3  2.1.02.01.01.00               HOSPITALTEC LTDA                   S, 1 N    N    N      N        N
+20165-7  2.1.02.01.01.00               HOSPITECNICA E SERV.LTDA           S, 1 N    N    N      N        N
+20101-7  2.1.02.01.01.00               HOSPLAN COMERCIAL LTDA             S, 1 N    N    N      N        N
+20135-6  2.1.02.01.01.00               IBF-IND.BRAS.DE FILMES LTDA        S, 1 N    N    N      N        N
+20193-9  2.1.02.01.01.00               IMARF GRANITOS S/A                 S, 1 N    N    N      N        N
+20037-2  2.1.02.01.01.00               IMEDIATA-DIST. DE PROD FARMAC      S, 1 N    N    N      N        N
+20077-7  2.1.02.01.01.00               IMPORTEC-IMPORT.CEARENSE LTDA      S, 1 N    N    N      N        N
+21136-2  2.1.02.01.01.00               INFORMARE ED.PUB.PERIOD.LTDA       S, 1 N    N    N      N        N
+20245-2  2.1.02.01.01.00               INFORMAX COMPUTADORES LTDA         S, 1 N    N    N      N        N
+20253-7  2.1.02.01.01.00               INFORMIDIA SUP.P/INFORM.LTDA       S, 1 N    N    N      N        N
+20390-0  2.1.02.01.01.00               INPROMED DO BRASIL IND.COM.        S, 1 N    N    N      N        N
+20248-6  2.1.02.01.01.00               INST.BIOCHIMICO LTDA               S, 1 N    N    N      N        N
+20470-6  2.1.02.01.01.00               INSTITUTO DE JOELHO DO CEARA       S, 1 N    N    N      N        S
+20364-8  2.1.02.01.01.00               INSTRAMED LTDA                     S, 1 N    N    N      N        N
+20407-2  2.1.02.01.01.00               INTERCOM RIO COM.LAMP.LTDA         S, 1 N    N    N      N        N
+20283-8  2.1.02.01.01.00               INTERMEDICAL PROD.MED.LTDA         S, 1 N    N    N      N        N
+20415-7  2.1.02.01.01.00               INVESTMAR INTERCAMBIO COML.LTD     S, 1 N    N    N      N        N
+21129-2  2.1.02.01.01.00               IOB-INF.OBJ.PUBL.JURIDICAS LT.     S, 1 N    N    N      N        N
+20265-0  2.1.02.01.01.00               ISELETRICA LTDA                    S, 1 N    N    N      N        N
+20174-6  2.1.02.01.01.00               ITAMIL-ITAOCA MINERACAO LTDA       S, 1 N    N    N      N        N
+20017-5  2.1.02.01.01.00               J. NETO E CIA LTDA                 S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00009
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+20222-1  2.1.02.01.01.00               J.E.COM.DE EMBALAGENS LTDA         S, 1 N    N    N      N        N
+20162-3  2.1.02.01.01.00               J.J.GRAFICA-MARIA CIRLIANE         S, 1 N    N    N      N        N
+20212-8  2.1.02.01.01.00               J.S.COM.E SERV.DE REFRIGERACAO     S, 1 N    N    N      N        N
+20053-1  2.1.02.01.01.00               JBC-COM.DE PEÄAS P/REFRIG.LTDA     S, 1 N    N    N      N        N
+20130-3  2.1.02.01.01.00               JESUS DE MARIA ARRUDA              S, 1 N    N    N      N        N
+20372-2  2.1.02.01.01.00               JK MEDICAL                         S, 1 N    N    N      N        N
+20374-1  2.1.02.01.01.00               JL MATERIAL CIRURGICO LTDA         S, 1 N    N    N      N        N
+20603-0  2.1.02.01.01.00               JOAO BATISTA CUNHA - JBC           S, 1 N    N    N      N        S
+20172-7  2.1.02.01.01.00               JOSE CAVALCANTE &CIA LTDA          S, 1 N    N    N      N        N
+20207-7  2.1.02.01.01.00               JOSE RODERVAL V.ARRUDA             S, 1 N    N    N      N        N
+20379-4  2.1.02.01.01.00               JR COM.IMP.MATS.CIRURG.HOSPIT.     S, 1 N    N    N      N        N
+20224-0  2.1.02.01.01.00               K.TAKAOKA IND.COM.LTDA             S, 1 N    N    N      N        N
+20274-9  2.1.02.01.01.00               KEAGE COM. E REPRES.LTDA           S, 1 N    N    N      N        N
+20247-1  2.1.02.01.01.00               LAB.EVANDRO CHAGAS                 S, 1 N    N    N      N        N
+20430-1  2.1.02.01.01.00               LABORATORIO SAO PAULO LTDA         S, 1 N    N    N      N        S
+20262-6  2.1.02.01.01.00               LABTECNICA PROD.P/LABORATORIO      S, 1 N    N    N      N        N
+20263-0  2.1.02.01.01.00               LDM COM.E REPRES.LTDA              S, 1 N    N    N      N        N
+20079-6  2.1.02.01.01.00               LEAO DAS TINTAS LTDA               S, 1 N    N    N      N        N
+20180-1  2.1.02.01.01.00               LIFEMED INDL.EQUIP.MED.HOSPIT.     S, 1 N    N    N      N        N
+20091-7  2.1.02.01.01.00               LIMPBEL COMERCIAL LTDA             S, 1 N    N    N      N        N
+20384-5  2.1.02.01.01.00               LINEMED COM.MEDICAM.PROD.P/SAU     S, 1 N    N    N      N        N
+20378-0  2.1.02.01.01.00               LITORMED COM.PROD.MEDICOS LTDA     S, 1 N    N    N      N        N
+20058-4  2.1.02.01.01.00               LITTLE CHAPLIN COM.E IND. LTDA     S, 1 N    N    N      N        N
+20029-8  2.1.02.01.01.00               LIVRARIA E PAP.DO COMêRCIO LT      S, 1 N    N    N      N        N
+21137-7  2.1.02.01.01.00               LOCMED HOSPITALAR -ME              S, 1 N    N    N      N        N
+20425-0  2.1.02.01.01.00               LOGOS COML. E TECNICA LTDA         S, 1 N    N    N      N        S
+20466-0  2.1.02.01.01.00               LOTUS IND.E COM.LTDA               S, 1 N    N    N      N        S
+20183-5  2.1.02.01.01.00               LV UNIFORMES-ME                    S, 1 N    N    N      N        N
+20178-4  2.1.02.01.01.00               M.S.DE SOUSA HORTIFRUTIGRANJ.      S, 1 N    N    N      N        N
+20055-0  2.1.02.01.01.00               M.W.C. MESQUITA-ME                 S, 1 N    N    N      N        N
+20304-6  2.1.02.01.01.00               MACI FARM COM.MATL.HOSPIT.LTDA     S, 1 N    N    N      N        N
+20383-0  2.1.02.01.01.00               MACITEC MANUT.COML.INDL.HOSPIT     S, 1 N    N    N      N        N
+20181-6  2.1.02.01.01.00               MAGNA MEDICA LTDA                  S, 1 N    N    N      N        N
+20049-5  2.1.02.01.01.00               MAJELA HOSPITALAR LTDA             S, 1 N    N    N      N        N
+20124-8  2.1.02.01.01.00               MALLINCKRODT MEDICAL DO BRASIL     S, 1 N    N    N      N        N
+20206-2  2.1.02.01.01.00               MARIA IEDA V.CRUZ-ME               S, 1 N    N    N      N        N
+20485-2  2.1.02.01.01.00               MARIA VILAUBA O.MONTEIRO           S, 1 S, - S    S, -   N        S
+20108-9  2.1.02.01.01.00               MARK TECNOLOFIA LTDA               S, 1 N    N    N      N        N
+20388-3  2.1.02.01.01.00               MARKA COM.REP.PROD.ORTOPEDICOS     S, 1 N    N    N      N        N
+20151-5  2.1.02.01.01.00               MAS-MARIA A.SELVAS                 S, 1 N    N    N      N        N
+20016-0  2.1.02.01.01.00               MASTERDIGITAL EQUIP ELETR LTDA     S, 1 N    N    N      N        N
+20195-8  2.1.02.01.01.00               MAX PLASTICO LTDA                  S, 1 N    N    N      N        N
+20361-4  2.1.02.01.01.00               MAXCLEAN COM.PROD.LIMPEZA LTDA     S, 1 N    N    N      N        N
+20112-5  2.1.02.01.01.00               MEDCENTER EVONIO MACHADO S-EPP     S, 1 N    N    N      N        N
+20405-3  2.1.02.01.01.00               MEDIC LAR COM PROD.FARMAC.LTDA     S, 1 N    N    N      N        N
+20303-1  2.1.02.01.01.00               MEDICALTEXTIL-FCA.DAS CHAGAS       S, 1 N    N    N      N        N
+20031-5  2.1.02.01.01.00               MEDITRON ELETROMEDICINA LTDA       S, 1 N    N    N      N        N
+20267-9  2.1.02.01.01.00               MEFRASA-DIST.E COM.DE ACO LTDA     S, 1 N    N    N      N        N
+20227-4  2.1.02.01.01.00               MEGA LAB-J.J.MOREIRA NASCIM.       S, 1 N    N    N      N        N
+20216-6  2.1.02.01.01.00               MEGA PLASTICOS COML.LTDA           S, 1 N    N    N      N        N
+20137-5  2.1.02.01.01.00               MENFA-IND.E COM.CONFEC.LTDA        S, 1 N    N    N      N        N
+20371-8  2.1.02.01.01.00               MERCADINHO M.R.A.LTDA              S, 1 N    N    N      N        N
+20082-8  2.1.02.01.01.00               MERCANTIL SAO JOSE S/A             S, 1 N    N    N      N        N
+20368-6  2.1.02.01.01.00               MICROMED BIOTECNOL.LTDA            S, 1 N    N    N      N        N
+20177-0  2.1.02.01.01.00               MILPLAST COML.DE EMBAL.LTDA        S, 1 N    N    N      N        N
+20396-8  2.1.02.01.01.00               MN DE SOUSA LANDIM                 S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00010
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+20244-8  2.1.02.01.01.00               MOVEIS DE ACO CONFIANCA            S, 1 N    N    N      N        N
+20286-1  2.1.02.01.01.00               MSG COM.E MANUT.HOSPIT.LTDA        S, 1 N    N    N      N        N
+20277-2  2.1.02.01.01.00               MULTILAV LAVAND.INDUSTRIAL         S, 1 N    N    N      N        N
+20386-4  2.1.02.01.01.00               NDT COMERCIAL LTDA                 S, 1 N    N    N      N        N
+20171-2  2.1.02.01.01.00               NECTAR-NUC.EMP.CIENCIA,TECNOL.     S, 1 N    N    N      N        N
+20387-9  2.1.02.01.01.00               NEKTAR COM.PROD.HOSPIT.LTDA        S, 1 N    N    N      N        N
+20377-5  2.1.02.01.01.00               NETSTART-TECNOL.INFORMACAO         S, 1 N    N    N      N        N
+20270-0  2.1.02.01.01.00               NEUROCENTRO S/C LTDA               S, 1 N    N    N      N        N
+20295-0  2.1.02.01.01.00               NEUROMAX COM.PROD.HOSPIT.LTDA      S, 1 N    N    N      N        N
+20290-8  2.1.02.01.01.00               NEWTEMP-AR CONDICIONADO LTDA       S, 1 N    N    N      N        N
+20201-0  2.1.02.01.01.00               NITRON DO NORDESTE-IND.COM.GAS     S, 1 N    N    N      N        N
+20392-0  2.1.02.01.01.00               NIVALDO MUNIZ NUNES-EPP            S, 1 N    N    N      N        N
+20083-2  2.1.02.01.01.00               NNS - COM. E REP. LTDA             S, 1 N    N    N      N        N
+20129-0  2.1.02.01.01.00               NORBYTE INFORMATICA LTDA           S, 1 N    N    N      N        N
+20242-9  2.1.02.01.01.00               NORTEL TELECOM.INFORMATICA LTD     S, 1 N    N    N      N        N
+20291-2  2.1.02.01.01.00               NOVOTEMPO SERVICOS LTDA            S, 1 N    N    N      N        N
+20160-4  2.1.02.01.01.00               NSD SAUDE-NELY S.DIOGENES          S, 1 N    N    N      N        N
+20397-2  2.1.02.01.01.00               NUTRIMED-NUTRICAO PARENTERAL       S, 1 N    N    N      N        N
+20279-1  2.1.02.01.01.00               NUVEX COM.PROD.MEDICOS LTDA        S, 1 N    N    N      N        N
+20389-8  2.1.02.01.01.00               OMNIEL CONSULT.BIOMASTER           S, 1 N    N    N      N        N
+20051-2  2.1.02.01.01.00               ORTEMICRO IND.COM.PROD.INF.LT      S, 1 N    N    N      N        N
+20469-3  2.1.02.01.01.00               ORTHOSERV COM.E SERVICOS LTDA      S, 1 N    N    N      N        S
+20362-9  2.1.02.01.01.00               ORTOCARDIO ORTOP.CARDIOL. LTDA     S, 1 N    N    N      N        N
+20119-7  2.1.02.01.01.00               ORTOFEN - INDUSTRIA E COM LTDA     S, 1 N    N    N      N        N
+20078-1  2.1.02.01.01.00               ORTOFOR ORTOPEDIA FORT.LTDA        S, 1 N    N    N      N        N
+20375-6  2.1.02.01.01.00               ORTOGENESE COM.IMP.MATS.MEDIC.     S, 1 N    N    N      N        N
+20084-7  2.1.02.01.01.00               ORTOPLAN COMERCIAL LTDA            S, 1 N    N    N      N        N
+20517-9  2.1.02.01.01.00               ORTOSSINTESE COM.IMP.MAT.MED.      S, 1 N    N    N      N        S
+20085-1  2.1.02.01.01.00               ORTOTEX - PROD.HOSP.FARM.LTDA      S, 1 N    N    N      N        N
+20252-2  2.1.02.01.01.00               OXIGEL MATS.HOSP.IND.COM.LTDA      S, 1 N    N    N      N        N
+20238-2  2.1.02.01.01.00               PAIVA FRIOS REFRIGERACAO           S, 1 N    N    N      N        N
+20131-8  2.1.02.01.01.00               PANORAMA COM.PROD.FARMAC.LTDA      S, 1 N    N    N      N        N                      0000
+20427-0  2.1.02.01.01.00               PANORAMA COM.PROD.MED.FARM.LTD     S, 1 N    N    N      N        S
+20414-2  2.1.02.01.01.00               PARAMEDICO MATL.MED.E HOSPIT.      S, 1 N    N    N      N        N
+20240-0  2.1.02.01.01.00               PLANEX ENCOMENDAS URGENTES LTD     S, 1 N    N    N      N        N
+20092-1  2.1.02.01.01.00               POINT SUTURE DO BRAS.IND.FIOS      S, 1 N    N    N      N        N
+20024-5  2.1.02.01.01.00               POLPA DE FRUTAS NORD LTDA.         S, 1 N    N    N      N        N
+20019-4  2.1.02.01.01.00               PONTO DA TINTAS LTDA               S, 1 N    N    N      N        N
+20102-1  2.1.02.01.01.00               PRO RAD. CONSULT.EM RADIO LTDA     S, 1 N    N    N      N        N
+20115-9  2.1.02.01.01.00               PROCESS PLANEJ.ASSESS.CONSULT.     S, 1 N    N    N      N        N
+20428-4  2.1.02.01.01.00               PROD.TEXTEIS SABIE LTDA.           S, 1 N    N    N      N        S
+20161-9  2.1.02.01.01.00               PRODESC-PROD.HOSPITALARES          S, 1 N    N    N      N        N
+20113-0  2.1.02.01.01.00               PROEL IND COM REP SERV LTDA        S, 1 N    N    N      N        N
+20090-2  2.1.02.01.01.00               PROHOSPITAL-COM.REP.HOLANDA LT     S, 1 N    N    N      N        N
+20032-0  2.1.02.01.01.00               PROLAN COM PROD HOSPITALARES       S, 1 N    N    N      N        N
+20188-8  2.1.02.01.01.00               PROLIMPO-L.A.M.LENZI               S, 1 N    N    N      N        N
+20116-3  2.1.02.01.01.00               PRONTIMEDICA COMERCIAL LTDA        S, 1 N    N    N      N        N
+21132-4  2.1.02.01.01.00               PRONTOSERV COM.REP.SERV.GERAIS     S, 1 N    N    N      N        N
+20081-3  2.1.02.01.01.00               PROSOFT NORDESTE INFORMAT.LTDA     S, 1 N    N    N      N        N
+20127-1  2.1.02.01.01.00               PRaXIMA DISTRIBUIDORA LTDA         S, 1 N    N    N      N        N
+20234-4  2.1.02.01.01.00               PULMAO ART.MED.FISIOTER.LTDA       S, 1 N    N    N      N        N
+20237-8  2.1.02.01.01.00               QUEBEC COMERCIAL LTDA              S, 1 N    N    N      N        N
+20302-7  2.1.02.01.01.00               QUIMICA MUNDIAL-MONTSINAI IND.     S, 1 N    N    N      N        N
+20324-3  2.1.02.01.01.00               QUIMICA UNIVERSAL-FCO.RICARDO      S, 1 N    N    N      N        N
+21134-3  2.1.02.01.01.00               R.C.COM.E REPRES.LTDA              S, 1 N    N    N      N        N
+20424-6  2.1.02.01.01.00               RAIMUNDO FAZ TUDO SERV.MEC.LTD     S, 1 N    N    N      N        S
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00011
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+20134-1  2.1.02.01.01.00               RAIMUNDO S.DA SILVA EQUIP.-EPP     S, 1 N    N    N      N        N
+20153-4  2.1.02.01.01.00               RBS COML.DE MAQ.E SERV.LTDA        S, 1 N    N    N      N        N
+20154-9  2.1.02.01.01.00               REAL IMP.GRAFICOS LTDA             S, 1 N    N    N      N        N
+20103-6  2.1.02.01.01.00               REALHOSPITALAR COM. E REP.LTDA     S, 1 N    N    N      N        N
+21139-6  2.1.02.01.01.00               REI DOS CEREAIS-FCO.JOSE AGUIA     S, 1 N    N    N      N        N
+20086-6  2.1.02.01.01.00               REM-INDUSTRIA E COMERCIO LTDA      S, 1 N    N    N      N        N
+20158-7  2.1.02.01.01.00               REPIFARMA COML.MEDIC.LTDA          S, 1 N    N    N      N        N
+20138-0  2.1.02.01.01.00               REPLAMA PREST.SERV.LTDA            S, 1 N    N    N      N        N
+20059-9  2.1.02.01.01.00               RHOMED COM REP MAT MEDICO LTDA     S, 1 N    N    N      N        N
+20500-3  2.1.02.01.01.00               RICARDO PIRES KAYATT               S, 1 N    N    N      N        N
+20259-4  2.1.02.01.01.00               RISO IMPRESSORAS DIGITAIS LTDA     S, 1 N    N    N      N        N
+20484-8  2.1.02.01.01.00               RODRIGO FERREIRA LEAL              S, 1 N    N    N      N        S
+20213-2  2.1.02.01.01.00               RPL COMERCIAL                      S, 1 N    N    N      N        N
+20254-1  2.1.02.01.01.00               RR SERV.REFRIG.E ELETRIC.LTDA      S, 1 N    N    N      N        N
+20028-3  2.1.02.01.01.00               S SERVICE - EQUIP. ELETRONICOS     S, 1 N    N    N      N        N
+20417-6  2.1.02.01.01.00               S&S DIST.DE PROD.DE LIMP.LTDA      S, 1 N    N    N      N        N
+20146-4  2.1.02.01.01.00               SANEARTEC SEVICOS LTDA             S, 1 N    N    N      N        N
+20370-3  2.1.02.01.01.00               SAO PAULO ODONTO COM.SERV.         S, 1 N    N    N      N        N
+20164-2  2.1.02.01.01.00               SARAIVA GURGEL COM.MEDIC.LTDA      S, 1 N    N    N      N        N
+20149-8  2.1.02.01.01.00               SBC-SIST.BEN.CEARENSE LTDA         S, 1 N    N    N      N        N
+20087-0  2.1.02.01.01.00               SCIENTIFIC COM. E IMP. LTDA        S, 1 N    N    N      N        N
+20208-1  2.1.02.01.01.00               SEFORT-SEG.TRANSP.DE VALORES       S, 1 N    N    N      N        N
+20167-6  2.1.02.01.01.00               SELLENE COM.REP.LTDA               S, 1 N    N    N      N        N
+20043-8  2.1.02.01.01.00               SEMPRE LIMPO LTDA                  S, 1 N    N    N      N        N
+20210-9  2.1.02.01.01.00               SENSOR MED-J.ALEXANDRE RODRIG.     S, 1 N    N    N      N        N
+20298-4  2.1.02.01.01.00               SERVMED DIST.MEDIC.MAT.HOSPIT.     S, 1 N    N    N      N        N
+20426-5  2.1.02.01.01.00               SERVTECH DO BRASIL COM.SERV.       S, 1 N    N    N      N        S
+20230-6  2.1.02.01.01.00               SET-SERV.ESPEC.TELEINFORMATICA     S, 1 N    N    N      N        N
+20385-0  2.1.02.01.01.00               SG COM.MATERIAIS HOSPIT.LTDA       S, 1 N    N    N      N        N
+20288-0  2.1.02.01.01.00               SHELTER MEDICAL PROD.MEDICOS       S, 1 N    N    N      N        N
+20299-9  2.1.02.01.01.00               SHOPPING DAS ESPUMAS               S, 1 N    N    N      N        N
+20126-7  2.1.02.01.01.00               SHOPPING PROHOSPITAL LTDA          S, 1 N    N    N      N        N
+20289-5  2.1.02.01.01.00               SIDPLAST DO NE IND COM PROD        S, 1 N    N    N      N        N
+20039-1  2.1.02.01.01.00               SIEMENS LTDA                       S, 1 N    N    N      N        N
+20382-6  2.1.02.01.01.00               SIMAG COM.VAR.PROD.DOMISSANIT.     S, 1 N    N    N      N        N
+20516-4  2.1.02.01.01.00               SINERGIA MEDICA COM ART MED        S, 1 N    N    N      N        S
+20106-0  2.1.02.01.01.00               SISTEMA O POVO DE RADIO S/C LT     S, 1 N    N    N      N        N
+20220-2  2.1.02.01.01.00               SO PISCINAS LTDA                   S, 1 N    N    N      N        N
+20275-3  2.1.02.01.01.00               SODINE SOC.DIST.NORDESTE LTDA      S, 1 N    N    N      N        N
+20166-1  2.1.02.01.01.00               SOPISOS-ANGELICA ALVES             S, 1 N    N    N      N        N
+20190-5  2.1.02.01.01.00               START-SIST.TEC.REC.TERCEIRIZ.      S, 1 N    N    N      N        N
+20218-5  2.1.02.01.01.00               STATUS COM.MATL.HOSPITALAR         S, 1 N    N    N      N        N
+20251-8  2.1.02.01.01.00               STC-SERV.TRANSP.E CARGAS           S, 1 N    N    N      N        N
+20367-1  2.1.02.01.01.00               SUEDMASTER COM.REPRES.LTDA         S, 1 N    N    N      N        N
+20406-8  2.1.02.01.01.00               SUPORTE HOSPITALAR LTDA            S, 1 N    N    N      N        N
+20168-0  2.1.02.01.01.00               SUPRIMED DIST.MED.MAT.HOSPIT.      S, 1 N    N    N      N        N
+20023-0  2.1.02.01.01.00               SURGERY COM E REPRES. LTDA         S, 1 N    N    N      N        N
+20292-7  2.1.02.01.01.00               SURGICALLMED                       S, 1 N    N    N      N        N
+21130-5  2.1.02.01.01.00               SYSTECH-ASSIST.TEC.EQUIP.MIC.      S, 1 N    N    N      N        N
+20015-6  2.1.02.01.01.00               TAKEDA COMERCIO LTDA.              S, 1 N    N    N      N        N
+20184-0  2.1.02.01.01.00               TALIMPO COM.PROD.LIMPEZA LTDA      S, 1 N    N    N      N        N
+20211-3  2.1.02.01.01.00               TBA-TEC.BRAS.DE ALIMENTOS LTDA     S, 1 N    N    N      N        N
+20013-7  2.1.02.01.01.00               TCM - EXPRESS TCM LTDA             S, 1 N    N    N      N        N
+20094-0  2.1.02.01.01.00               TEB-TECNOLOGIA ELETRO BRAS.LTD     S, 1 N    N    N      N        N
+20300-8  2.1.02.01.01.00               TEC IMAGEM COM.SERV.RADIOLOGIC     S, 1 N    N    N      N        N
+20088-5  2.1.02.01.01.00               TEC LUX LTDA                       S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00012
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+20170-8  2.1.02.01.01.00               TECNOLIFE EQUIP.MEDICOS LTDA       S, 1 N    N    N      N        N
+20412-3  2.1.02.01.01.00               TECNOQUIMICA IND.COM.LTDA          S, 1 N    N    N      N        N
+20128-6  2.1.02.01.01.00               TECNOVETTI PROD.E SERV.P/ESCR.     S, 1 N    N    N      N        N
+20205-8  2.1.02.01.01.00               TELECEL-TELEINFORM.COM.REP.        S, 1 N    N    N      N        N
+20044-2  2.1.02.01.01.00               TELEVISAO VERDES MARES LTDA        S, 1 N    N    N      N        N
+20194-3  2.1.02.01.01.00               TERGUS SIST.E CONSULT.LTDA         S, 1 N    N    N      N        N
+20054-6  2.1.02.01.01.00               TERMACO SOLUCOES TECNOLOGICAS      S, 1 N    N    N      N        N
+20046-1  2.1.02.01.01.00               TIPOGRAFIA REAL                    S, 1 N    N    N      N        N
+20198-1  2.1.02.01.01.00               TLP COM.E REP.LTDA                 S, 1 N    N    N      N        N
+20185-4  2.1.02.01.01.00               TNL PCS S/A - OI                   S, 1 N    N    N      N        N
+20409-1  2.1.02.01.01.00               TNT MERCURIO CARGAS ENCOMENDAS     S, 1 N    N    N      N        N
+20309-9  2.1.02.01.01.00               TOP LIMP COM.MATS.E SERV.LTDA      S, 1 N    N    N      N        N
+20467-4  2.1.02.01.01.00               TRAUMABONE COMERCIO LTDA-EPP       S, 1 N    N    N      N        S
+20243-3  2.1.02.01.01.00               TTS-TECNO TROLLEY SYSTEM LTDA      S, 1 N    N    N      N        N
+20273-4  2.1.02.01.01.00               UNIAO QUIMICA DO BRASIL LTDA       S, 1 N    N    N      N        N
+20200-5  2.1.02.01.01.00               UNIBOI-CARNE E ALIMENTOS LTDA      S, 1 N    N    N      N        N
+20041-9  2.1.02.01.01.00               UNIVERSAL DISTRIB FARMACEUTICA     S, 1 N    N    N      N        N
+20365-2  2.1.02.01.01.00               VARIG LOGISTICA S.A.               S, 1 N    N    N      N        N
+20093-6  2.1.02.01.01.00               VESS COM.DE MAT.CIRUR.LTDA         S, 1 N    N    N      N        N
+20020-7  2.1.02.01.01.00               VIAGENS E TURISMO LTDA             S, 1 N    N    N      N        N
+20600-6  2.1.02.01.01.00               VIDEOMED LTDA                      S, 1 S, 1 N    N      N        S
+20464-0  2.1.02.01.01.00               VM REFRIG.VALENTINA M.NONATO       S, 1 N    N    N      N        S
+20021-1  2.1.02.01.01.00               WALSAN COM REPRES LTDA             S, 1 N    N    N      N        N
+20256-0  2.1.02.01.01.00               WEM EQUIP.ELETRON.LTDA             S, 1 N    N    N      N        N
+20089-0  2.1.02.01.01.00               WHITE MARTINS S/A                  S, 1 N    N    N      N        N
+21300-0  2.1.03.00.00.00               CREDORES DIVERSOS
+21310-3  2.1.03.01.00.00               CONTAS A PAGAR
+20310-1  2.1.03.01.01.00               TELECOMUNICACOES                   S, 1 N    N    N      N        N
+20312-0  2.1.03.01.02.00               CAGECE                             S, 1 N    N    N      N        N
+20311-6  2.1.03.01.03.00               CIA ENERGICA DO CEARA - COELCE     S, 1 N    N    N      N        N
+20315-4  2.1.03.01.04.00               CREDITOS DE CONVENIOS              S, 1 N    N    N      N        N
+20316-9  2.1.03.01.05.00               UNIBANCO (SALDO CREDOR)            S, 1 N    N    N      N        N
+20317-3  2.1.03.01.06.00               PENSAO ALIMENTICIA                 S, 1 N    N    N      N        N
+20318-8  2.1.03.01.07.00               FREELIFE OPER.PLANOS SAUDE S/C     S, 1 N    N    N      N        N
+20493-7  2.1.03.02.00.00               BCO BRASIL                         S, 1 N    N    N      N        S
+20313-5  2.1.03.02.01.00               BAMERINDUS S/A- C/C 225-38         S, 1 N    N    N      N        N
+20314-0  2.1.03.02.01.00               BCO -BANDEIRANTE-24500970004/2     S, 1 N    N    N      N        N
+21400-2  2.1.04.00.00.00               EMPRESTIMOS A CURTO PRAZO
+21401-7  2.1.04.01.00.00               UNICRED-CREDITO C/C                S, 1 N    N    N      N        N
+
+22000-3  2.2.00.00.00.00               EXIGIVEL A LONGO PRAZO
+22001-8  2.2.01.00.00.00               EMPRêSTIMOS E FINANCIAMENTOS
+22002-2  2.2.01.01.00.00               OMNIMAGEM DIAG.P/IMAG.REP.LTDA     S, 1 N    N    N      N        N
+22004-1  2.2.01.02.00.00               BICBANCO-C/C.100128-5 MUTUO        S, 1 N    N    N      N        N
+22006-0  2.2.01.03.00.00               FREE LIFE OPER.PLANOS SAUDE        S, 1 N    N    N      N        N
+22100-6  2.2.02.00.00.00               OUTRAS PROVISOES
+20322-4  2.2.02.01.00.00               PROV.IMPOST.RENDA DIFERIDO         S, 1 N    N    N      N        N
+22003-7  2.2.03.00.00.00               EMPRESTIMOS A ACIONISTAS
+22005-6  2.2.03.01.00.00               FRANCISCO MARCUS MELO VIANA        S, 1 N    N    N      N        N
+
+25000-9  2.5.00.00.00.00               PATRIMONIO LIQUIDO
+25100-1  2.5.01.00.00.00               CAPITAL REALIZADO
+20323-9  2.5.01.01.00.00               CAPITAL SUBSCRITO                  S, 1 S, 2 N    N      N        N
+25120-9  2.5.01.02.00.00               (-)CAPITAL A REALIZAR
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00013
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+25200-4  2.5.02.00.00.00               RESERVAS
+25210-8  2.5.02.01.00.00               RESERVAS DE CAPITAL
+20326-2  2.5.02.01.01.00               CORRECAO MONETARIA DO CAPITAL      S, 1 N    N    N      N        N
+25230-5  2.5.02.03.00.00               RESERVA DE LUCROS
+20327-7  2.5.02.03.01.00               RESERVA LEGAL                      S, 1 N    N    N      N        N
+20328-1  2.5.02.03.02.00               RESERVA DE LUCRO                   S, 1 N    N    N      N        N
+20329-6  2.5.02.03.03.00               RESERVA PARA CONTIGENCIA           S, 1 N    N    N      N        N
+20325-8  2.5.02.03.04.00               CORRECAO ESPECIAL LEI 8200/91      S, 1 N    N    N      N        N
+25240-9  2.5.02.04.00.00               LUCROS/PREJUIZOS
+20330-9  2.5.02.04.01.00               LUCRO E/OU PREJUIZOS 1993          S, 1 N    N    N      N        N
+20331-3  2.5.02.04.02.00               LUCRO E/OU PREJUIZOS 1994          S, 1 N    N    N      N        N
+20332-8  2.5.02.04.03.00               LUCRO E/OU PREJUIZO ACUMULADO      S, 1 N    N    N      N        N
+20333-2  2.5.02.04.04.00               LUCRO/PREJUIZO MENSAL
+20337-0  2.5.02.04.04.01               JANEIRO/96                         S, 1 N    N    N      N        N
+20338-5  2.5.02.04.04.02               FEVEREIRO/96                       S, 1 N    N    N      N        N
+20339-0  2.5.02.04.04.03               MARCO/96                           S, 1 N    N    N      N        N
+20340-2  2.5.02.04.04.04               ABRIL/96                           S, 1 N    N    N      N        N
+20341-7  2.5.02.04.04.05               MAIO/96                            S, 1 N    N    N      N        N
+20342-1  2.5.02.04.04.06               JUNHO/96                           S, 1 N    N    N      N        N
+20343-6  2.5.02.04.04.07               JULHO/96                           S, 1 N    N    N      N        N
+20344-0  2.5.02.04.04.08               AGOSTO/96                          S, 1 N    N    N      N        N
+20345-5  2.5.02.04.04.09               SETEMBRO/96                        S, 1 N    N    N      N        N
+20346-0  2.5.02.04.04.10               OUTUBRO/96                         S, 1 N    N    N      N        N
+20347-4  2.5.02.04.04.11               NOVEMBRO/96                        S, 1 N    N    N      N        N
+20348-9  2.5.02.04.04.12               DEZEMBRO/96                        S, 1 N    N    N      N        N
+20349-3  2.5.02.04.05.00               PREJUIZO 1997                      S, 1 N    N    N      N        N
+20350-6  2.5.02.04.06.00               PREJUIZO 1998                      S, 1 N    N    N      N        N
+20351-0  2.5.02.04.07.00               PREJUIZO 1999                      S, 1 N    N    N      N        N
+20352-5  2.5.02.04.08.00               PREJUIZO 2000                      S, 1 N    N    N      N        N
+20353-0  2.5.02.04.09.00               PREJUIZO 2001                      S, 1 N    N    N      N        N
+20354-4  2.5.02.04.10.00               PREJUIZO 2002                      S, 1 N    N    N      N        N
+20355-9  2.5.02.04.11.00               PREJUIZO 2003                      S, 1 N    N    N      N        N
+20356-3  2.5.02.04.12.00               PREJUIZO 2004                      S, 1 N    N    N      N        N
+20357-8  2.5.02.04.13.00               PREJUIZO 2005                      S, 1 N    N    N      N        N
+20413-8  2.5.02.04.14.00               PREJUIZO 2006                      S, 1 N    N    N      N        N
+25250-2  2.5.02.05.00.00               LUCROS OU PREJUIZOS ACUMULADOS
+20334-7  2.5.02.05.01.00               LUCROS ACUMULADOS                  S, 1 N    N    N      N        N
+20335-1  2.5.02.05.02.00               (-) PREJUIZOS ACUMULADOS           S, 1 N    N    N      N        N
+
+25300-7  2.6.00.00.00.00               RESULTADO DO EXERCICIO
+25600-5  2.6.01.00.00.00               RESULTADO DO PERIODO BASE
+25601-0  2.6.01.01.00.00               PREJUIZO DO PERIODO BASE           S, 1 N    N    N      N        N
+25500-2  2.6.04.00.00.00               APURACAO DO SISTEMA
+20336-6  2.6.04.01.00.00               RESULTADO DO PERIODO               S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00014
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+40000-1  4.0.00.00.00.00               DESPESAS
+
+41000-3  4.1.00.00.00.00               DESPESAS OPERACIONAIS
+41100-6  4.1.01.00.00.00               DESPESAS C/ADMINISTRACAO                                               906001        139
+41110-0  4.1.01.01.00.00               DESPESAS C/DIRERORIA
+40001-6  4.1.01.01.01.00               PRO-LABORE                         S, 1 N    N    N      N        N
+40002-0  4.1.01.01.02.00               INSS S/PROLABORE                   S, 1 N    N    N      N        N
+41200-9  4.1.02.00.00.00               DESPESAS COM PESSOAL                                                   906002        140
+40003-5  4.1.02.01.00.00               SALARIOS                           S, 1 N    N    N      N        N
+40004-0  4.1.02.02.00.00               BOLSA P/ESTAGIARIO                 S, 1 N    N    N      N        N
+40005-4  4.1.02.03.00.00               INSS                               S, 1 N    N    N      N        N
+40006-9  4.1.02.04.00.00               VALE TRANSPORTE                    S, 1 N    N    N      N        N
+40007-3  4.1.02.05.00.00               F.G.T.S                            S, 1 N    N    N      N        N
+40008-8  4.1.02.06.00.00               13ß SALARIO                        S, 1 N    N    N      N        N
+40053-3  4.1.02.07.00.00               FERIAS                             S, 1 N    N    N      N        N
+40073-0  4.1.02.08.00.00               AVISO PREVIO                       S, 1 N    N    N      N        N
+40074-5  4.1.02.09.00.00               INSALUBRIDADE                      S, 1 N    N    N      N        N
+40082-0  4.1.02.10.00.00               PERICULOSIDADE                     S, 1 N    N    N      N        N
+40085-3  4.1.02.11.00.00               INDENIZACOES                       S, 1 N    N    N      N        N
+40086-8  4.1.02.12.00.00               AUXILIO CRECHE                     S, 1 N    N    N      N        N
+40091-9  4.1.02.13.00.00               AUXILIO FUNERAL                    S, 1 N    N    N      N        N
+40092-3  4.1.02.14.00.00               TAXAS DIVERSAS                     S, 1 N    N    N      N        N
+40093-8  4.1.02.15.00.00               TERCEIRIZACAO                      S, 1 N    N    N      N        N
+40094-2  4.1.02.16.00.00               CESTA BASICA                       S, 1 N    N    N      N        N
+40095-7  4.1.02.17.00.00               ADICIONAL NOTURNO                  S, 1 N    N    N      N        N
+40096-1  4.1.02.18.00.00               FERIADOS                           S, 1 N    N    N      N        N
+40097-6  4.1.02.19.00.00               ADICIONAL DE CHEFIA                S, 1 N    N    N      N        N
+40098-0  4.1.02.20.00.00               AMBIENTE FECHADO                   S, 1 N    N    N      N        N
+40099-5  4.1.02.21.00.00               GRATIFICACAO                       S, 1 N    N    N      N        N
+40101-9  4.1.02.22.00.00               AUXILIO BABA                       S, 1 N    N    N      N        N
+41300-1  4.1.03.00.00.00               DESPESAS ADMINISTRATIVAS                                               906002        140
+40009-2  4.1.03.01.00.00               EVENTOS                            S, 1 N    N    N      N        N
+40010-5  4.1.03.02.00.00               MATERIAL DE ESCRITORIO             S, 1 N    N    N      N        N
+40011-0  4.1.03.03.00.00               SERVICOS PRESTADOS - PJ            S, 1 N    N    N      N        N
+40012-4  4.1.03.04.00.00               COMUNICACOES                       S, 1 N    N    N      N        N
+40013-9  4.1.03.05.00.00               FRETES                             S, 1 N    N    N      N        N
+40014-3  4.1.03.06.00.00               VIAGENS                            S, 1 N    N    N      N        N
+40015-8  4.1.03.07.00.00               CARTORIOS                          S, 1 N    N    N      N        N
+40016-2  4.1.03.08.00.00               ASSINATURAS                        S, 1 N    N    N      N        N
+40017-7  4.1.03.09.00.00               CORREIOS E TELEGRAFOS              S, 1 N    N    N      N        N
+40018-1  4.1.03.10.00.00               AGUA(CAGECE)                       S, 1 N    N    N      N        N
+40019-6  4.1.03.11.00.00               BENS DE PEQUENO VALOR              S, 1 N    N    N      N        N
+40020-9  4.1.03.12.00.00               CONSERVACAO E LIMPEZA              S, 1 N    N    N      N        N
+40021-3  4.1.03.13.00.00               COPA E COZINHA                     S, 1 N    N    N      N        N
+40022-8  4.1.03.14.00.00               ENERGIA(COELCE)                    S, 1 N    N    N      N        N
+40023-2  4.1.03.15.00.00               PUBLICACOES/ANUNCIOS               S, 1 N    N    N      N        N
+40024-7  4.1.03.16.00.00               SERVICOS PRESTADOS - PF            S, 1 N    N    N      N        N
+40090-4  4.1.03.17.00.00               DESPESAS C/VEICULOS                S, 1 N    N    N      N        N
+40026-6  4.1.03.18.00.00               COMISSAO                           S, 1 N    N    N      N        N
+40027-0  4.1.03.19.00.00               FARDAMENTOS                        S, 1 N    N    N      N        N
+40028-5  4.1.03.20.00.00               ALUGUEL DE EQUIPAMENTOS            S, 1 N    N    N      N        N
+40029-0  4.1.03.21.00.00               REFEICAO                           S, 1 N    N    N      N        N
+40030-2  4.1.03.22.00.00               DEPRECIACAO E AMORTIZACAO          S, 1 N    N    N      N        N
+40031-7  4.1.03.23.00.00               PROPAGANDA                         S, 1 N    N    N      N        N
+40075-0  4.1.03.24.00.00               MANUT.DE BENS E INSTALACOES        S, 1 N    N    N      N        N
+40076-4  4.1.03.25.00.00               MATERIAL DE EXPEDIENTE             S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00015
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+40077-9  4.1.03.26.00.00               TREINAMENTO                        S, 1 N    N    N      N        N
+40044-4  4.1.03.27.00.00               MULTAS ADMINISTRATIVAS             S, 1 N    N    N      N        N
+40080-0  4.1.03.28.00.00               DESP.C/TRANSPORTES                 S, 1 N    N    N      N        N
+40079-8  4.1.03.30.00.00               ALUGUEL DE IMOVEIS                 S, 1 N    N    N      N        N
+40083-4  4.1.03.33.00.00               SEGUROS                            S, 1 N    N    N      N        N
+40049-7  4.1.03.34.00.00               TAXAS DIVERSAS                     S, 1 N    N    N      N        N
+40087-2  4.1.03.35.00.00               DESPESAS DIVERSAS                  S, 1 N    N    N      N        N
+40100-4  4.1.03.36.00.00               HONORARIOS ADVOCATICIOS            S, 1 N    N    N      N        N
+41400-4  4.1.04.00.00.00               DESPESAS TRIBUTARIAS                                                   906003        141
+40032-1  4.1.04.01.00.00               ANUIDADES                          S, 1 N    N    N      N        N
+40033-6  4.1.04.02.00.00               IOF S/OPERCAO FINANCEIRA           S, 1 N    N    N      N        N
+40034-0  4.1.04.03.00.00               MULTAS INDEDUTIVEIS                S, 1 N    N    N      N        N
+40035-5  4.1.04.04.00.00               OUTROS IMPOSTOS/TAXAS E CUSTAS     S, 1 N    N    N      N        N
+40036-0  4.1.04.05.00.00               IRPJ                               S, 1 N    N    N      N        N
+40037-4  4.1.04.06.00.00               CONTRB. SOCIAL                     S, 1 N    N    N      N        N
+40038-9  4.1.04.07.00.00               IPTU                               S, 1 N    N    N      N        N
+40039-3  4.1.04.08.00.00               CONTRIBUICAO SINDICAL PATRONAL     S, 1 N    N    N      N        N
+41500-7  4.1.05.00.00.00               DESPESAS FINANCEIRAS                                                   906005        143
+40041-0  4.1.05.01.00.00               DESCONTOS CONCEDIDOS               S, 1 N    N    N      N        N
+40042-5  4.1.05.02.00.00               DESPESAS BANCARIAS                 S, 1 N    N    N      N        N
+40043-0  4.1.05.03.00.00               JUROS PASSIVOS                     S, 1 N    N    N      N        N
+40048-2  4.1.05.04.00.00               TAXA DE COMISSCO                   S, 1 N    N    N      N        N
+40046-3  4.1.05.05.00.00               VARIAÄAO CAMBIAL                   S, 1 N    N    N      N        N
+40047-8  4.1.05.06.00.00               JUROS S/FINANCIAMENTOS             S, 1 N    N    N      N        N
+40081-5  4.1.05.07.00.00               CPMF                               S, 1 N    N    N      N        N
+42300-3  4.1.06.00.00.00               PROVISOES
+40088-7  4.1.06.01.00.00               PROVISAO IRPJ                      S, 1 N    N    N      N        N    907031        154
+40089-1  4.1.06.02.00.00               PROVISAO CONT. SOCIAL S/LUCRO      S, 1 N    N    N      N        N    907025        167
+
+42000-5  4.2.00.00.00.00               CUSTOS DOS SERVIÄOS
+42100-8  4.2.01.00.00.00               CUSTOS DE MATERIAL                                                     904003        130
+40054-8  4.2.01.01.00.00               MEDICAMENTOS/MATERIAIS             S, 1 N    N    N      N        N
+40055-2  4.2.01.02.00.00               MATERIAL P/EXAMES                  S, 1 N    N    N      N        N
+40056-7  4.2.01.03.00.00               MATERIAL DE LIMPEZA                S, 1 N    N    N      N        N
+40057-1  4.2.01.04.00.00               GENEROS ALIMENTICIOS               S, 1 N    N    N      N        N
+40058-6  4.2.01.05.00.00               FRETES                             S, 1 N    N    N      N        N
+40059-0  4.2.01.06.00.00               CONSERVAÄAO E LIMPEZA              S, 1 N    N    N      N        N
+40060-3  4.2.01.07.00.00               MATERIAL-COPA/COZINHA              S, 1 N    N    N      N        N
+40061-8  4.2.01.08.00.00               ALUGUEL DE EQUIPAMENTOS            S, 1 N    N    N      N        N
+40062-2  4.2.01.09.00.00               BENS DE PEQUENO VALOR              S, 1 N    N    N      N        N
+40063-7  4.2.01.10.00.00               DEPRECIAÄAO E AMORTIZAÄAO          S, 1 N    N    N      N        N
+40025-1  4.2.01.11.00.00               MANUTENCAO DE EQUIPAMENTOS         S, 1 N    N    N      N        N
+40078-3  4.2.01.12.00.00               MATERIAL DE EMBALAGEM              S, 1 N    N    N      N        N
+40084-9  4.2.01.13.00.00               MATERIAL APARTAMENTOS              S, 1 N    N    N      N        N
+42200-0  4.2.02.00.00.00               CUSTOS DE PESSOAL                                                      904003        130
+40064-1  4.2.02.01.00.00               SERVIÄOS PRESTADOS PJ              S, 1 N    N    N      N        N
+40065-6  4.2.02.02.00.00               REPASSE DE CONVENIOS               S, 1 N    N    N      N        N
+40066-0  4.2.02.03.00.00               SALARIOS                           S, 1 N    N    N      N        N
+40067-5  4.2.02.04.00.00               BOLSA P/ ESTAGIARIO                S, 1 N    N    N      N        N
+40068-0  4.2.02.05.00.00               INSS                               S, 1 N    N    N      N        N
+40069-4  4.2.02.06.00.00               VALE TRANSPORTE                    S, 1 N    N    N      N        N
+40070-7  4.2.02.07.00.00               F.G.T.S                            S, 1 N    N    N      N        N
+40071-1  4.2.02.08.00.00               13ß SALARIO                        S, 1 N    N    N      N        N
+40072-6  4.2.02.09.00.00               FêERIAS                            S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00016
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+
+43000-7  4.3.00.00.00.00               CUSTOS E DESP.NAO OPERACIONAIS
+43100-0  4.3.01.00.00.00               CUSTOS NAO OPERACIONAIS
+43201-7  4.3.01.01.00.00               RECEITAS A FATURAR                 S, 1 N    N    N      N        N
+43200-2  4.3.02.00.00.00               DESPESAS NAO OPERACIONAIS                                              907011        149
+43300-5  4.3.03.00.00.00               OUTRAS DESPESAS
+41001-8  4.3.03.01.00.00               AJUSTE EXERCICIO ANTERIOR          S, 1 N    N    N      N        N    907011        149
+41002-2  4.3.03.02.00.00               PERDAS                             S, 1 N    N    N      N        N
+41003-7  4.3.03.03.00.00               JUDICIAIS                          S, 1 N    N    N      N        N
+
+44000-9  4.4.00.00.00.00               CONTAS DE APURACAO
+44100-1  4.4.01.00.00.00               APURACAO DO RESULTADO
+44110-5  4.4.01.01.00.00               APURACAO DO EXERCICIO
+40050-0  4.4.01.01.01.00               RESULTADO CORRECAO MONETARIA       S, 1 N    N    N      N        N
+40051-4  4.4.01.01.02.00               RESULATDO OPERACIONAL FINAL        S, 1 N    N    N      N        N
+40052-9  4.4.01.01.03.00               RESULTADO DO EXERCICIO             S, 1 N    N    N      N        N
+
+------------------------------------------------------------------------------------------------------------------------------------
+Contabilidade                                         Data Emissao:  06/02/2017                                         Folha: 00017
+------------------------------------------------------------------------------------------------------------------------------------
+Plano de Contas   0001
+------------------------------------------------------------------------------------------------------------------------------------
+Acesso   Classificador                 N o m e  d a  C o n t a            Lcto Cor. Red. Custo Tx.Moeda Conc.  Contas DmBL  Seq DIPJ
+------------------------------------------------------------------------------------------------------------------------------------
+50000-2  5.0.00.00.00.00               RECEITAS
+
+51000-4  5.1.00.00.00.00               RECEITAS OPERACIONAIS
+51100-7  5.1.01.00.00.00               RECEITAS DA PREST.SERV.LIQUIDA
+51110-0  5.1.01.01.00.00               RECEITA PRESTACAO DE SERVICOS
+50001-7  5.1.01.01.01.00               SUS - SIST. UNICO DE SAUDE         S, 1 N    N    N      N        N    901003        111
+50002-1  5.1.01.01.02.00               PARTICULARES                       S, 1 N    N    N      N        N    901003        111
+50003-6  5.1.01.01.03.00               CONVENIOS                          S, 1 N    N    N      N        N    901003        111
+51120-4  5.1.01.02.00.00               (-) DEDUCOES DE RECEITAS
+50005-5  5.1.01.02.02.00               PIS S/FATURAMENTO                  S, 1 N    N    N      N        N    902005        119
+50014-4  5.1.01.02.03.00               COFINS S/ FATURAMENTO              S, 1 N    N    N      N        N    902006        120
+50020-0  5.1.01.02.04.00               ISS S/ FATURAMENTO                 S, 1 N    N    N      N        N    902013        169
+50021-4  5.1.01.02.05.00               SERVICOS GLOSADO/CANCELADO         S, 1 N    N    N      N        N    902012        164
+51200-0  5.1.02.00.00.00               RESULTADO FINANCEIRO
+51210-3  5.1.02.01.00.00               RECEITAS FINANCEIRAS                                                   906006        144
+50015-9  5.1.02.01.01.00               DESCONTOS OBTIDOS                  S, 1 N    N    N      N        N
+50016-3  5.1.02.01.02.00               RENDA DE PARTICIPACOES             S, 1 N    N    N      N        N
+50017-8  5.1.02.01.03.00               JUROS ATIVOS                       S, 1 N    N    N      N        N
+50018-2  5.1.02.01.04.00               VARIACAO MONETARIA ATIVA           S, 1 N    N    N      N        N
+50019-7  5.1.02.01.05.00               RENDA DE APLICACOES                S, 1 N    N    N      N        N
+50022-9  5.1.02.01.06.00               VARIAÄAO CAMBIAL                   S, 1 N    N    N      N        N
+50023-3  5.1.02.01.07.00               BONUS CPMF                         S, 1 N    N    N      N        N
+50024-8  5.1.02.01.08.00               CORRECAO MONETARIA                 S, 1 N    N    N      N        N
+51300-2  5.1.03.00.00.00               OUTRAS RECEITAS
+51310-6  5.1.03.01.00.00               RECEITAS NAO OPERACIONAIS                                              907010        148
+50004-0  5.1.03.01.01.00               RECUPERACAO DE CPMF                S, 1 N    N    N      N        N    907013        151
+50006-0  5.1.03.01.02.00               ALUGUEL                            S, 1 N    N    N      N        N    907013        151
+50007-4  5.1.03.01.03.00               RECUPERACAO DO IOF                 S, 1 N    N    N      N        N    907013        151
+50008-9  5.1.03.01.04.00               AJUSTES EXERCICIO ANTERIOR         S, 1 N    N    N      N        N    907013        151
+50009-3  5.1.03.01.05.00               RECUPERACAO DE DESPESAS            S, 1 N    N    N      N        N    907013        151
